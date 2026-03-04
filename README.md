@@ -1,0 +1,7 @@
+# Газиев Джабраил
+# Учебная практика
+ 
+ # Содержание 
+- # Testirovanie chernim yachicom
+- # Чёрный ящик Калькулятор 
+- # SimpleCalculatorWinForms
