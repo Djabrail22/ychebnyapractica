@@ -59,6 +59,7 @@
             this.listBoxTasks.Name = "listBoxTasks";
             this.listBoxTasks.Size = new System.Drawing.Size(260, 199);
             this.listBoxTasks.TabIndex = 3;
+            this.listBoxTasks.SelectedIndexChanged += new System.EventHandler(this.listBoxTasks_SelectedIndexChanged);
             // 
             // Form1
             // 

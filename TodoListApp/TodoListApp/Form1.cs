@@ -56,5 +56,10 @@ namespace TodoListApp
                 listBoxTasks.Items.Add(task);
             }
         }
+
+        private void listBoxTasks_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

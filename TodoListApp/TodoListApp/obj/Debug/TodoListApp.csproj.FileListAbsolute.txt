@@ -288,7 +288,6 @@ D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\bin\Debug\tr\Microsoft.Visual
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.AssemblyReference.cache
-D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe.config
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\obj\Debug\TodoListApp.Form1.resources
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\obj\Debug\TodoListApp.Properties.Resources.resources
 D:\Gaziev\ychebnyapractica\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csproj.GenerateResource.cache
